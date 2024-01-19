@@ -1,3 +1,4 @@
 # Primus
 This is my first GitHub Repo. Hurray!!!
-Author - Muskaan Sharma
+<br>
+<b><i>Author - Muskaan Sharma<i><b>
